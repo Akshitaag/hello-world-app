@@ -1,11 +1,9 @@
-### Overview Description
+**Steps to Reproduce**
 
-# Steps to Reproduce
+**Actual Results**
 
-# Actual Results
+**Expected Results**
 
-# Expected Results
+**Reproducibility**
 
-# Reproducibility
-
-# Additional Information:
+**Additional Information:**
