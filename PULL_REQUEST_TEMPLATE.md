@@ -1,4 +1,4 @@
-* [ ] Steps to Reproduce
+- [ ] Steps to Reproduce
 
 **Actual Results**
 
