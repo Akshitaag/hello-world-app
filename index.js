@@ -1,5 +1,5 @@
 module.exports = robot => {
-	 robot.log('Yay, the app was loaded!')
+	 robot.log('Yay, the app was loaded! nice')
   robot.on('issues.opened', async context => {
     // `context` extracts information from the event, which can be passed to
     // GitHub API calls. This will return:
